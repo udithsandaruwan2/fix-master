@@ -12,7 +12,7 @@ gates:
   G3: approved 2026-11-16 by human
   G4: approved 2026-11-16 by human
   G5: proposed 2026-11-16 by human (pending approval)
-next_action: "Start M1: Foundation + Auth + Geo (bootstrap apps/web, apps/api, auth, maps)"
+next_action: "Start M1-T1.1: Bootstrap apps/web React+Vite (pnpm install, dev server, Netlify config)"
 ---
 
 # Project state
