@@ -4,7 +4,7 @@
 
 ## What this is
 
-`<one paragraph: what the product does, for whom, and why>`
+AutoLanka — a location-based marketplace where Sri Lankan drivers find the nearest vehicle repair shops and tow trucks, see transparent prices, and request service — answering "is help available, how soon, and what will it cost" in seconds.
 
 ## Status
 
@@ -28,9 +28,9 @@
 ## Setup
 
 ```bash
-<install command>
-<dev command>
-<test command>
+pnpm install
+pnpm dev
+pnpm test
 ```
 
 ## Structure
@@ -45,4 +45,4 @@
 
 ## License
 
-`<license>`
+MIT
